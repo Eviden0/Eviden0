@@ -9,8 +9,6 @@
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA0&center=true&vCenter=true&width=435&lines=fmt.Println(%22Hacked+By+Eviden%22)" alt="Typing SVG" />
   </a>
-## My Skill Set
-
 <table><tr><td valign="top" width="33%">
 
 ### Frontend
