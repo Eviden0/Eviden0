@@ -54,12 +54,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eviden0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
-<!-- 访问次数徽章修复，直接用 img 标签嵌入 -->
-<div align="center" style="margin-bottom: 16px;">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" target="_blank" rel="noopener noreferrer">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" alt="访问次数" />
-  </a>
-</div>
+<br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2033%20mins-blue)
 
@@ -162,5 +157,10 @@ Vue                      2 repos             █░░░░░░░░░░�
 
   <!-- 奖杯展示 -->
   <img src="https://github-profile-trophy.vercel.app/?username=Eviden0" alt="trophy" />
-
+<!-- 访问次数徽章修复，直接用 img 标签嵌入 -->
+<div align="center" style="margin-bottom: 16px;">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" target="_blank" rel="noopener noreferrer">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" alt="访问次数" />
+  </a>
+</div>
 </div>
