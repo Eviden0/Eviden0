@@ -54,12 +54,29 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eviden0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
-<br/>
+
+## Pinned
+
+<div style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px; scrollbar-width: thin;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 0 auto;">
+    <img src="https://github-readme-stats-brown-eight-26.vercel.app/api/pin?username=Eviden0&repo=PrintRaptor&bg_color=90,000000,00ff88&title_color=fff&text_color=fff" alt="Readme Card" style="height: 140px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 0 auto;">
+    <img src="https://github-readme-stats-brown-eight-26.vercel.app/api/pin?username=Eviden0&repo=Echo&bg_color=90,000000,00ff88&title_color=fff&text_color=fff" alt="Readme Card" style="height: 140px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 0 auto;">
+    <img src="https://github-readme-stats-brown-eight-26.vercel.app/api/pin?username=Eviden0&repo=Wails-Template&bg_color=90,000000,00ff88&title_color=fff&text_color=fff" alt="Readme Card" style="height: 140px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 0 auto;">
+    <img src="https://github-readme-stats-brown-eight-26.vercel.app/api/pin?username=Eviden0&repo=MyCodeQLDB&bg_color=90,000000,00ff88&title_color=fff&text_color=fff" alt="Readme Card" style="height: 140px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 0 0 auto;">
+    <img src="https://github-readme-stats-brown-eight-26.vercel.app/api/pin?username=Eviden0&repo=BehinderClientSource&bg_color=90,000000,00ff88&title_color=fff&text_color=fff" alt="Readme Card" style="height: 140px;" />
+  </a>
+</div>
+
 
 -----
-
-## Coding Time
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2049%20mins-blue)
