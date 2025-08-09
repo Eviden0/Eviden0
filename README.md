@@ -9,9 +9,6 @@
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFA0&center=true&vCenter=true&width=435&lines=fmt.Println(%22Hacked+By+Eviden%22)" alt="Typing SVG" />
   </a>
-
-<br/><br/>
-
 ## My Skill Set
 
 <table><tr><td valign="top" width="33%">
@@ -59,7 +56,12 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eviden0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br/>
-
+<!-- 访问次数徽章修复，直接用 img 标签嵌入 -->
+<div align="center" style="margin-bottom: 16px;">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" target="_blank" rel="noopener noreferrer">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" alt="访问次数" />
+  </a>
+</div>
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2027%20mins-blue)
