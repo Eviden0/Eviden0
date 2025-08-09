@@ -50,6 +50,11 @@
 
 <br/>
 
+## Top Langs
+
+[![Top Langs](https://github-readme-stats-brown-eight-26.vercel.app/api/top-langs/?username=Eviden0&hide=javascript,html,Tex,CSS,Stylus,NSIS,Pug,Roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eviden0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
