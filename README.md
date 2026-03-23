@@ -50,11 +50,6 @@
 
 <br/>
 
-## Top Langs
-
-[![Top Langs](https://github-readme-stats-brown-eight-26.vercel.app/api/top-langs/?username=Eviden0&hide=javascript,html,Tex,CSS,Stylus,NSIS,Pug,Roff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eviden0&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
@@ -162,12 +157,4 @@ Vue                      2 repos             █░░░░░░░░░░�
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg" width="800px" style="border-radius: 10px;" />
   </picture>
 
-  <!-- 奖杯展示 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Eviden0" alt="trophy" />
-<!-- 访问次数徽章修复，直接用 img 标签嵌入 -->
-<div align="center" style="margin-bottom: 16px;">
-  <a href="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" target="_blank" rel="noopener noreferrer">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Eviden0" alt="访问次数" />
-  </a>
-</div>
 </div>
